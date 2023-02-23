@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HOME_WORK_2</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="vhod">Вход</string>
+    <string name="makevhod">Выполните вход</string>
+    <string name="register">или зарегистрируйтесь</string>
+    <string name="clickme">Нажми сюда</string>
+    <string name="forgetpassword">Забыл пароль?</string>
+    <string name="into">Войти</string>
+</resources>
